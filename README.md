@@ -1,1 +1,1 @@
-# nbody-shell-optimization
+# n-Body Shell Optimization
